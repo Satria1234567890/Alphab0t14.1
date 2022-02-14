@@ -1,6 +1,6 @@
 {
     "self_mode": false,
-	"autobio": true,
+	"autobio": false,
 	"antihidetag": true,
 	"user_register": false,
 	"anti_delete" : false,
@@ -9,14 +9,14 @@
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "6289529130202",
-	"ownerNumberr": "6289529130202",
-	"cr": "ᴹᴿ᭄ Venzy Store ×፝֟͜×",
-	"ownername": "ᴹᴿ᭄ VenzyStote ×፝֟͜×",
-	"botname":"BOTZ 𝚟𝚎𝚗𝚣𝚢 𝚜𝚝𝚘𝚛𝚎",
-	"thumb":"thumbnail_1.jpg",
-	"thumbnail":"thumbnail_2_1.jpg",
-	"fakethumb":"thumbnail_1.jpg", 
+	"ownerNumber": "62889029688324",
+	"ownerNumberr": "62889029688324",
+	"cr": "ᴹᴿ᭄ Ihsan Store ×፝֟͜×",
+	"ownername": "ᴹᴿ᭄ Ihsan Store ×፝֟͜×",
+	"botname":"BOTZ Ihss ",
+	"thumb":"Beta_01.jpg",
+	"thumbnail":"Beta_01_2.jpg",
+	"fakethumb":"Beta_01.jpg", 
 	"donasi":"donasi.jpg",
-	"fake": " 「  ALPHABOT  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+	"fake": " 「  IhssBOT  」\nCreated By Ihsann×፝֟͜×"
 }
